@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hola Mundo\n");
+	printf("Hola Mundo ARM\n");
 return 0;
 }
